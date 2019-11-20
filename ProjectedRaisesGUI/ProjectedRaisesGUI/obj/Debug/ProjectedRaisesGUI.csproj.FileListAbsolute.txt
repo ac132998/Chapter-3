@@ -1,0 +1,10 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.exe.config
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Form1.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Properties.Resources.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.GenerateResource.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.pdb

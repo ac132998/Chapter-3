@@ -1,0 +1,10 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\GreenvilleRevenueGUI\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb

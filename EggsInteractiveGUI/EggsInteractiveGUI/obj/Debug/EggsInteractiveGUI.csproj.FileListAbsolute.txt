@@ -1,0 +1,10 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Form1.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 3\EggsInteractiveGUI\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb
